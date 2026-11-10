@@ -194,5 +194,5 @@ cython_debug/
 # dbt
 dbt_packages/
 logs/
-/Data/raw/Manual del Jugador 2024.pdf
-/Data/raw/Manual del Jugador 2024.pdf:Zone.Identifier
+/Data/raw/Manual_del_Jugador_2024.pdf
+/Data/raw/Manual_del_Jugador_2024.pdf:Zone.Identifier

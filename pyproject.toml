@@ -3,3 +3,7 @@ name = "llm-toc"
 version = "0.1.0"
 requires-python = ">=3.12,<3.13"
 dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
